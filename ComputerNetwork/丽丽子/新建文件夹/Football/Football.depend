@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1451409625 source:e:\丽丽子\新建文件夹\football\main.cpp
+	<iostream>
+	<string.h>
+	<stdlib.h>
+
+1451462200 source:e:\tt\丽丽子\新建文件夹\football\main.cpp
+	<iostream>
+	<string.h>
+	<stdlib.h>
+	<fstream>
+
